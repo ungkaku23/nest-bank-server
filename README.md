@@ -30,7 +30,6 @@ Full Stack Web Application similar to financial software that is used in profess
 
 <dl>
   <h3>Backend technologies stack</h3>
-  <dd><a href="https://github.com/microsoft/TypeScript">TypeScript</a>, <a href="https://github.com/nodejs/node">Node.js</a>, <a href="https://github.com/nestjs/nest">Nest.js</a>, REST API, PostgreSQL and Swagger Documentation</dd>
 </dl>
 
 <hr>
@@ -55,4 +54,4 @@ yarn start
 ```
 
 <h4>License</h4>
-This project is licensed under the MIT license. Copyright (c) 2020 Adrian Pietrzak.
+This project is licensed under the MIT license. Copyright (c) 2020 
